@@ -16,7 +16,7 @@
 
  * <b>Phishing</b>: Con más de 40 plantillas
  * <b>Funcionalidad</b>: Todas pueden subirlas a un hosting ;)
- * <b>Ngrok</b>: El arhivo install.sh instalará automáticamete ngrok 
+ * <b>Ngrok</b>: El arhivo install.sh instalará automáticamente ngrok 
  * <b>Tunelización</b>: 3 túneles localhost.run/serveo/ngrok y pueden elegir el puerto que quieran
  * <b>Personalización</b>: Pueden colocar títulos, fotos, descripciones, mini url y redireccionar a la víctima
  * <b>Cóctel thelinuxchoice</b>: Combinación de scripts de IP, cámara y ubicación 
