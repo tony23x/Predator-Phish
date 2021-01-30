@@ -8,18 +8,19 @@
 ![Tested]
 ![autor]
 
-<h2 align="center"> Herramienta avanzada de Phishing! </h3>
+<h2 align="center"> Herramienta avanzada de Phishing! </h2>
+<h3 align="center"> "Menos es más" <h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/55555800/93633128-fa42ec80-f9dd-11ea-9307-1d4ccbbd0a6f.png" alt="PREVIEW"  align="center">
 </p>
 
- * <b>Phishing</b>: Con más de 40 plantillas
+ * <b>Phishing</b>: Con más de 40 plantillas (ller abajo)
  * <b>Funcionalidad</b>: Todas pueden subirlas a un hosting ;)
- * <b>Ngrok</b>: El arhivo install.sh instalará automáticamente ngrok 
- * <b>Tunelización</b>: 3 túneles localhost.run/serveo/ngrok y pueden elegir el puerto que quieran
- * <b>Personalización</b>: Pueden colocar títulos, fotos, descripciones, mini url y redireccionar a la víctima
- * <b>Cóctel thelinuxchoice</b>: Combinación de scripts de IP, cámara y ubicación 
+ * <b>Ngrok</b>: El arhivo install.sh instalará automáticamente ngrok en cualquier arquitectura
+ * <b>Port forwarding</b>: localhost.run/serveo/ngrok, pueden elegir el puerto que quieran
+ * <b>Personalización</b>: Pueden insertar títulos, fotos, descripciones, mini url y redireccionar a la víctima, además soporta Telegram
+ * <b>Cóctel thelinuxchoice</b>: Combinación de scripts de IP, cámara y ubicación en una sola página
  * <b>Email Spoofing</b>: 3 plantillas HTML personalizables para enviar desde esta tool o con SET
  * <b>Idioma</b>: Todas las plantillas en español
   
@@ -76,7 +77,7 @@ facebook_pc        google_pc       messenger
 <!-- MarkDown Links & Images -->
 [version]: https://img.shields.io/badge/Versi%C3%B3n-BETA%3A%20V.2.0-orange
 [tested]: https://img.shields.io/badge/Probado-Kali%20Linux%20%7C%20Userland%20%7C%20Termux-blue
-[autor]: https://img.shields.io/badge/Author-%40Th3__Pr3dat0r-green
+[autor]: https://img.shields.io/badge/Author-%40Th3__Pr3d4t0r-green
 
 
 
