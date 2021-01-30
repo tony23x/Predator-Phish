@@ -15,7 +15,7 @@
   <img src="https://user-images.githubusercontent.com/55555800/93633128-fa42ec80-f9dd-11ea-9307-1d4ccbbd0a6f.png" alt="PREVIEW"  align="center">
 </p>
 
- * <b>Phishing</b>: Con más de 40 plantillas (ller abajo)
+ * <b>Phishing</b>: Con más de 40 plantillas (leer abajo)
  * <b>Funcionalidad</b>: Todas pueden subirlas a un hosting ;)
  * <b>Ngrok</b>: El arhivo install.sh instalará automáticamente ngrok en cualquier arquitectura
  * <b>Port forwarding</b>: localhost.run/serveo/ngrok, pueden elegir el puerto que quieran
@@ -77,7 +77,7 @@ facebook_pc        google_pc       messenger
 <!-- MarkDown Links & Images -->
 [version]: https://img.shields.io/badge/Versi%C3%B3n-BETA%3A%20V.2.0-orange
 [tested]: https://img.shields.io/badge/Probado-Kali%20Linux%20%7C%20Userland%20%7C%20Termux-blue
-[autor]: https://img.shields.io/badge/Author-%40Th3__Pr3d4t0r-green
+[autor]: https://img.shields.io/badge/Author-%40Th3__Pr3d4t0r-red
 
 
 
