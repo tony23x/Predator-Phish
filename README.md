@@ -7,6 +7,8 @@
 ![version]
 ![Tested]
 ![autor]
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/th3pr3d4t0r)
+
 
 <h2 align="center"> Herramienta avanzada de Phishing! </h2>
 <h3 align="center"> "Menos es más" <h3>
